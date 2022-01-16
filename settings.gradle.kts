@@ -7,5 +7,5 @@
  * in the user manual at https://docs.gradle.org/6.7/userguide/multi_project_builds.html
  */
 
-rootProject.name = "krupet"
+rootProject.name = "advent_of_code_2021_kotlin"
 include("app")
